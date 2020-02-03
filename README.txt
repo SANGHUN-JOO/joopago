@@ -3,9 +3,9 @@ Joopago (9x9 go AI with alphazero algorithm)
 I've tried to train this AI using a single computer in home.
 It, however, is not trained to play go yet...
 
-I needs your help.
+I need your help.
 
-Below things are specs of my pc, circumstances and parametor value of algorithm.
+Below things are specs of my pc, circumstances and parametor values of algorithm.
 
 ----------------------------------------------------------------------------------
 My pc resource details:
