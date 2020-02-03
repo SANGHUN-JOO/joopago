@@ -1,6 +1,6 @@
 Joopago (9x9 go AI with alphazero algorithm)
 
-I've tried to train this AI using a single computer in home.
+I've tried to train this AI using my home computer with just single gpu.
 It, however, is not trained to play go yet...
 
 I need your help.
